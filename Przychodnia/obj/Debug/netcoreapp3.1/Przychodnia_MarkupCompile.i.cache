@@ -1,0 +1,20 @@
+﻿Przychodnia
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\user\Desktop\Testowanie oprogramowania projekt 3.1\Przychodnia\obj\Debug\netcoreapp3.1\
+Przychodnia
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\user\Desktop\Testowanie oprogramowania projekt 3.1\Przychodnia\App.xaml
+27-883344527
+
+601102719754
+1951190954929
+MainWindow.xaml;WindowAdministrator.xaml;WindowLogin.xaml;Windows\Calendar\PageCalendar.xaml;Windows\Calendar\WindowCalendarDayEdition.xaml;Windows\Calendar\WindowDoctorTerms.xaml;Windows\Calendar\WindowOverlapping.xaml;Windows\Calendar\WindowOverlappingChangeOffice.xaml;Windows\DictionariesHandling\PageViewListOfOffice.xaml;Windows\DictionariesHandling\WindowDoctorDataEdition.xaml;Windows\DictionariesHandling\WindowEmployeeDataEdition.xaml;Windows\DictionariesHandling\WindowOfficeDataEdition.xaml;Windows\DictionariesHandling\WindowUserDataEdition.xaml;Windows\DictionariesHandling\WindowUserList.xaml;Windows\DictionariesHandling\WindowViewListOfDoctors.xaml;Windows\DictionariesHandling\WindowViewListOfEmployee.xaml;Windows\Login\PageLogin.xaml;Windows\Login\WindowChangePassword.xaml;Windows\Login\WindowForgotPassword.xaml;Windows\Login\WindowInputCode.xaml;Windows\Patient\WindowPatientAddEdition.xaml;Windows\Patient\WindowPatientEdition.xaml;Windows\Patient\WindowViewListOfPatient.xaml;Windows\Visit\WindowResultVisitAddEdition.xaml;Windows\Visit\WindowViewListOfResultVisit.xaml;Windows\Visit\WindowViewListOfVisit.xaml;Windows\Visit\WindowVisitAddEdition.xaml;
+
+True
+
